@@ -1,4 +1,4 @@
-# Docker Laravel on Alpine Linux
+# PHP Docker on Alpine Linux
 ==============================================
 
 This repository is based on [nurettintopal/docker-php](https://github.com/nurettintopal/docker-php).
